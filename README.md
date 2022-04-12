@@ -21,7 +21,7 @@ For this project, I was interested in using San Francisco Airbnb data from 2021 
 2. What amenities are the most valuable?
 3. How do accommodation sizes, housing types, and location affect price?
 
-I have included the San Francisco listings dataset from Airbnb, and you can see the full analysis in the Jupiter Notebook file, "SF_Airbnb_Analysis.ipynb".
+I have included the San Francisco listings dataset from Airbnb, and you can see the full analysis in the Jupyter Notebook file, "SF_Airbnb_Analysis.ipynb".
 
 
 ## File Descriptions <a name="files"></a>
